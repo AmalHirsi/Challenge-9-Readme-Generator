@@ -8,7 +8,7 @@
  Video Demonstration link: https://share.icloud.com/photos/024NO6DFhHPaTjJUUGLShNaIQ
 
   ## Table of Content
-  1. [Instillation](#installation)
+  1. [Installation](#installation)
   2. [Usage](#usage)
   3. [License](license)
   4. [Contributing](#contributing)
