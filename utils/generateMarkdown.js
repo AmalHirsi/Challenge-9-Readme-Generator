@@ -16,7 +16,7 @@ function generateMarkdown (data) {
   6. [Questions](#questions)
 
   # Installation
-  ${data.instillation}
+  ${data.installation}
 
   # Usage
   ${data.usage}
@@ -30,10 +30,9 @@ function generateMarkdown (data) {
   # Tests
   ${data.tests}
 
-
   # Contact Information
   * If you have any enquiries please contact me on the following email.
-  ${data.userEmail}
+  ${data.email}
   `;
 };
 
